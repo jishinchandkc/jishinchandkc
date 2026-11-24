@@ -10,9 +10,7 @@ layer SQL pipeline over 55,000 synthetic events, with deduplication through wind
 functions and a rolling 14 day regional baseline that flags coordinated bot activity
 at a 10x threshold. Written to teach myself SQL properly rather than course by course.
 
-**[Kanoodle Extreme Solver](https://kanoodlesolver.netlify.app/)** — paint the pieces
-already on your 5x11 board and it fills in the rest. A constraint satisfaction problem
-wrapped in an interface simple enough to use mid puzzle.
+**[Pebblepack](https://pebblepack.netlify.app/)** — a packing puzzle: fit twelve stone pieces onto a wooden board with no gaps. Drag or tap to place, with Check and Hint when you're stuck. It started as a solver for a physical puzzle I own; I rebuilt it as an original game on the same engine.
 
 **[Cows & Bulls](https://cowsnbullsgame.netlify.app/)** — the code breaking game, with
 a guided walkthrough because the scoring rules are not obvious to new players.
